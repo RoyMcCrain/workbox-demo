@@ -1,9 +1,12 @@
 {
   "name": "workbox",
   "version": "1.0.0",
-  "main": "index.html",
-  "author": "RoyMcCrain <matsuda.r@kanamekey.com>",
   "license": "MIT",
+  "author": "RoyMcCrain <matsuda.r@kanamekey.com>",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
   "dependencies": {
     "http-server": "^0.12.3",
     "prettier": "^2.1.2"
